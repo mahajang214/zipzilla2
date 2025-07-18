@@ -3,8 +3,15 @@
 **zipzilla2** is a silent, command-line tool for compressing and extracting files and folders on all Linux distributions.
 
 **Understand what it says**
-eg: ./zipzilla2 compress -zip folder folder_name ...
+
+e.g.:
+
+    ./zipzilla2 compress -zip folder folder_name ...
+
+
+
 zipzilla compress_kr -zip_me in_folders_ko folder_name ...
+
 
 
 ## Screenshots
