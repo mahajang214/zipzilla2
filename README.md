@@ -8,11 +8,7 @@ e.g.:
 
     ./zipzilla2 compress -zip folder folder_name ...
 
-
-
-zipzilla    compress_kr     -zip_me     in_folders_ko    folder_name ...
-
-
+zipzilla     compress_kr    -zip_me    in_folders_ko    folder_name ...
 
 ## Screenshots
 
@@ -45,7 +41,6 @@ chmod +x zipzilla2
 ```bash
 ./zipzilla2 compress -zip folder images
 ```
-
 
 ### Basic Commands
 
