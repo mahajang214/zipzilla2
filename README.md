@@ -4,9 +4,12 @@
 
 ## Usage
 
-![zipzilla2.sh_menu](./images/zipzilla2_menu.png)
-![zipzilla2.sh_compression](./images/zipzilla2_compress.png)
-![zipzilla2.sh_extraction](./images/zipzilla2_extract.png)
+- **zipzilla usage**
+  ![zipzilla2.sh_menu](./images/zipzilla2_menu.png)
+- **zipzilla usage for compression**
+  ![zipzilla2.sh_compression](./images/zipzilla2_compress.png)
+- **zipzilla usage for extraction**
+  ![zipzilla2.sh_extraction](./images/zipzilla2_extract.png)
 
 ## Features
 
