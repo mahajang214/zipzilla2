@@ -4,11 +4,11 @@
 
 ## Usage
 
-```sh
-bash [zipzilla2.sh_menu](./images/zipzilla2_menu.png)
-bash [zipzilla2.sh_compression](./images/zipzilla2_compress.png)
-bash [zipzilla2.sh_extraction](./images/zipzilla2_extract.png)
-```
+
+![zipzilla2.sh_menu](./images/zipzilla2_menu.png)
+![zipzilla2.sh_compression](./images/zipzilla2_compress.png)
+![zipzilla2.sh_extraction](./images/zipzilla2_extract.png)
+
 
 ## Features
 
