@@ -10,7 +10,7 @@ e.g.:
 
 
 
-zipzilla compress_kr -zip_me in_folders_ko folder_name ...
+zipzilla    compress_kr     -zip_me     in_folders_ko    folder_name ...
 
 
 
