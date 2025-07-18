@@ -16,7 +16,7 @@ zipzilla compress_kr -zip_me in_folders_ko folder_name ...
 - **zipzilla usage for extraction**
   ![zipzilla2.sh_extraction](./images/zipzilla2_extract.png)
 
-## Usage
+## 📖 Usage
 
 ## 🚀 Quick Start
 
@@ -39,7 +39,6 @@ chmod +x zipzilla2
 ./zipzilla2 compress -zip folder images
 ```
 
-## 📖 Usage
 
 ### Basic Commands
 
